@@ -6,4 +6,5 @@ ShortDescription: SaveTracker tracks your game saves and optionally backs them u
 InstallerManifestUrl: https://raw.githubusercontent.com/KrachDev/SaveTracker/refs/heads/master/Installermanifest.yaml
 SourceUrl: https://github.com/KrachDev/SaveTracker
 Description: SaveTracker tracks your game saves and backs them up to the cloud for easy sync across devices.
+IconUrl: https://raw.githubusercontent.com/KrachDev/SaveTracker/refs/heads/master/icon.png
 Tags: ["Generic", "Cloud Saving", "Saving"]
